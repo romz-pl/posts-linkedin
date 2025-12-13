@@ -1,6 +1,6 @@
 # Computational Perspective of LP in MILP
 
-Anyone working in mathematical optimization should pay close attention to a fascinating Ph.D. thesis from 2023 that I recently came across: **"LProgramming in MILP Solving: A Computational Perspective"**, by Matthias Miltenberger of Technische Universität Berlin.
+Anyone working in mathematical optimization should pay close attention to a fascinating Ph.D. thesis from 2023 that I recently came across: **"Linear Programming in MILP Solving: A Computational Perspective"**, by Matthias Miltenberger of Technische Universität Berlin.
 
 Mixed-integer linear programming is the basis for countless business-critical decisions, from supply chain optimization to resource allocation. However, this research is driven by a provocative question: Why doesn't LP performance always translate to MILP performance?
 
@@ -25,7 +25,7 @@ The thesis exemplifies how academic research can advance both theoretical unders
 
  
 ## References
-+ 🔗 M. Miltenberger, **"Linear Programming in MILP Solving A Computational Perspective"**, PhD Thesis, [2023](https://d-nb.info/1358633320/34)
++ 🔗 M. Miltenberger, **"Linear Programming in MILP Solving: A Computational Perspective"**, PhD Thesis, [2023](https://d-nb.info/1358633320/34)
 + 🔗 The SCIP Optimization Suite, Solving Constraint Integer Programs, [2025](https://www.scipopt.org/)
 + 🔗 The fractal image was created using the [JavaScript Fractal Explorer](https://jsdw.me/js-fractal-explorer/) program, which was written by James Wilson.
 
