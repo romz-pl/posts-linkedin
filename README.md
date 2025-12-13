@@ -11,3 +11,8 @@
 + [Python for Data Scientists](005-python-for-data-scientists/README.md)
 + [Streamlit for Data Scientists](006-streamlit-for-data-scientists/README.md)
 
+
+## Integer Programming
++ [Integer Programming: Lessons from Computational Mathematics](007-integer-programming-lessons-from-computational-mathematics/README.md)
+
+
