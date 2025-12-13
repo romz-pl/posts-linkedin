@@ -24,3 +24,4 @@
 
 ## LP and MILP Solvers
 + [Open Source Linear Programming Solvers](011-open-source-linear-programming-solvers/README.md)
++ [Commercial Linear Programming Solvers](012-commercial-linear-programming-solvers/README.md)
