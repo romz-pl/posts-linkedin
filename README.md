@@ -64,5 +64,8 @@
 
 
 
-## Various Subjects
+## Physics
 + [Conceptual Physics, Not Just Calculations](032-conceptual-physics-not-just-calculations/README.md)
++ [How to Drive a Nuclear Reactor](033-how-to-drive-a-nuclear-reactor/README.md)
+
+
