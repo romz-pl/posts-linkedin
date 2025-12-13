@@ -21,6 +21,7 @@
 ## LP and MILP
 + [Revised Simplex or Interior Point Method?](036-revised-simplex-or-interior-point-method/README.md)
 + [Integer Programming: Lessons from Computational Mathematics](007-integer-programming-lessons-from-computational-mathematics/README.md)
++ [Computational Perspective of LP in MILP](037-computational-perspective-of-lp-in-milp/README.md)
 + [Why sparse linear equations?](035-why-sparse-linear-equations/README.md)
 + [Open Source Linear Programming Solvers](011-open-source-linear-programming-solvers/README.md)
 + [Commercial Linear Programming Solvers](012-commercial-linear-programming-solvers/README.md)
