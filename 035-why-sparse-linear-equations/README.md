@@ -10,7 +10,7 @@ Jennifer Scott and Miroslav Tuma's book, **Algorithms for Sparse Linear Systems*
 
 **Direct methods** are remarkably robust. They factorize the system matrix into simpler components, such as triangular matrices, and find solutions in a fixed number of steps. These methods function reliably as "black box solvers." However, they are impractical for extremely large problems, particularly those arising from three-dimensional or four-dimensional real-world discretizations, due to memory constraints.
 
-**Iterative methods** excel where direct methods falter. They require minimal memory and efficiently leverage matrix-vector products. The catch? Their performance depends heavily on the problem at hand and usually requires carefully designed preconditioners—transformations that improve numerical properties and accelerate convergence.
+**Iterative methods** excel where direct methods falter. They require minimal memory and efficiently leverage matrix-vector products. The catch? Their performance depends heavily on the problem at hand and usually requires carefully designed preconditioners — transformations that improve numerical properties and accelerate convergence.
 
 
 
