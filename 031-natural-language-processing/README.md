@@ -22,9 +22,9 @@ Many of the commercial tools we rely on today (e.g., voice assistants, search en
 
  
 ## References
-🔗 R. Lee **"Natural Language Processing A Textbook with Python Implementation"**, [2025](https://doi.org/10.1007/978-981-99-1999-4)
-🔗 M. Surdeanu, M.A. Valenzuela-Escárcega **"Deep Learning for Natural Language Processing A Gentle Introduction"**, [2024](https://doi.org/10.1017/9781009026222)
-🔗 Y. Haralambous **"A Course in Natural Language Processing"**, [2024](https://doi.org/10.1007/978-3-031-27226-4)
+- 🔗 R. Lee **"Natural Language Processing A Textbook with Python Implementation"**, [2025](https://doi.org/10.1007/978-981-99-1999-4)
+- 🔗 M. Surdeanu, M.A. Valenzuela-Escárcega **"Deep Learning for Natural Language Processing A Gentle Introduction"**, [2024](https://doi.org/10.1017/9781009026222)
+- 🔗 Y. Haralambous **"A Course in Natural Language Processing"**, [2024](https://doi.org/10.1007/978-3-031-27226-4)
 
 
 ```
