@@ -34,6 +34,11 @@
 
 
 
+## Approximation Algorithms
++ [Design and Analysis of Approximation Algorithms](025-design-and-analysis-of-approximation-algorithms/README.md)
+
+
+
 ## Yumbo Program
 + [Yumbo. Scheduling, Planning and Resource Allocation](013-yumbo-scheduling-planning-and-resource-allocation/README.md)
 + [Yumbo. Input Parameters for Efficient Scheduling](014-yumbo-input-parameters-for-efficient-scheduling/README.md)
