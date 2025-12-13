@@ -58,3 +58,5 @@
 
 ## Coding Agents
 + [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
++ [Claude Code an Agentic Coding Tool](029-claude-code-an-agentic-coding-tool/README.md)
+
