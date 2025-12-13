@@ -16,3 +16,6 @@
 + [Integer Programming: Lessons from Computational Mathematics](007-integer-programming-lessons-from-computational-mathematics/README.md)
 
 
+## Mathematical Programming
++ [AMPL, A Mathematical Programming Language](008-ampl-a-mathematical-programming-language/README.md)
+
