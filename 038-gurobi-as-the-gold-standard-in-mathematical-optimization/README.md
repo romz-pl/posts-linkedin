@@ -24,7 +24,7 @@ For those unfamiliar with it, Gurobi is a mathematical optimization solver that 
 
  
 ## References
-+ 🔗 [Gurobi](https://www.gurobi.com/)
++ 🔗 [Gurobi Optimization](https://www.gurobi.com/)
 + 🔗 The fractal image was created using the [JavaScript Fractal Explorer](https://jsdw.me/js-fractal-explorer/) program, which was written by James Wilson.
 
 
