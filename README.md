@@ -1,5 +1,6 @@
 # Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
+
 ## Operations Research Applications
 + [Optimal Generation of Daily Schedules](001-optimal-generation-of-daily-schedules/README.md)
 + [Operations Research and Project Management](002-operations-research-and-project-management/README.md)
@@ -10,10 +11,10 @@
 
 
 
-## Data Science Tools and Libraries
-+ [Python for Data Scientists](005-python-for-data-scientists/README.md)
-+ [Streamlit for Data Scientists](006-streamlit-for-data-scientists/README.md)
-+ [Pyomo - Optimization Modeling in Python](026-pyomo-optimization-modeling-in-python/README.md)
+## Algebraic Modeling Languages
++ [AMPL, A Mathematical Programming Language](008-ampl-a-mathematical-programming-language/README.md)
++ [Diversity of Mathematical Programming Languages](010-diversity-of-mathematical-programming-languages/README.md)
++ [Value of the NEOS Server for Operations Research](009-value-of-the-neos-server-for-operations-research/README.md)
 
 
 
@@ -22,21 +23,10 @@
 
 
 
-## Algebraic Modeling Languages
-+ [AMPL, A Mathematical Programming Language](008-ampl-a-mathematical-programming-language/README.md)
-+ [Diversity of Mathematical Programming Languages](010-diversity-of-mathematical-programming-languages/README.md)
-+ [Value of the NEOS Server for Operations Research](009-value-of-the-neos-server-for-operations-research/README.md)
-
-
 
 ## LP and MILP Solvers
 + [Open Source Linear Programming Solvers](011-open-source-linear-programming-solvers/README.md)
 + [Commercial Linear Programming Solvers](012-commercial-linear-programming-solvers/README.md)
-
-
-
-## Approximation Algorithms
-+ [Design and Analysis of Approximation Algorithms](025-design-and-analysis-of-approximation-algorithms/README.md)
 
 
 
@@ -52,3 +42,15 @@
 + [Yumbo. Features of Mathematical Model](021-yumbo-features-of-mathematical-model/README.md)
 + [Yumbo. Details of Mathematical Model](022-yumbo-details-of-mathematical-model/README.md)
 
+
+
+## Approximation Algorithms
++ [Design and Analysis of Approximation Algorithms](025-design-and-analysis-of-approximation-algorithms/README.md)
+
+
+
+## Data Science Tools and Libraries
++ [Python for Data Scientists](005-python-for-data-scientists/README.md)
++ [Streamlit for Data Scientists](006-streamlit-for-data-scientists/README.md)
++ [Pyomo - Optimization Modeling in Python](026-pyomo-optimization-modeling-in-python/README.md)
++ [Machine Learning Engineering](027-machine-learning-engineering/README.md)
