@@ -23,7 +23,6 @@
 
 
 
-
 ## LP and MILP Solvers
 + [Open Source Linear Programming Solvers](011-open-source-linear-programming-solvers/README.md)
 + [Commercial Linear Programming Solvers](012-commercial-linear-programming-solvers/README.md)
@@ -56,6 +55,7 @@
 + [Machine Learning Engineering](027-machine-learning-engineering/README.md)
 
 
+
 ## Coding Agents
 + [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
 + [Claude Code an Agentic Coding Tool](029-claude-code-an-agentic-coding-tool/README.md)
@@ -63,3 +63,6 @@
 + [Natural Language Processing](031-natural-language-processing/README.md)
 
 
+
+## Various Subjects
++ [Conceptual Physics, Not Just Calculations](032-conceptual-physics-not-just-calculations/README.md)
