@@ -33,5 +33,7 @@
 + [Yumbo. Expert Availability and Preferences](015-yumbo-expert-availability-and-preferences/README.md)
 + [Yumbo. Schedules for Project Managers](016-yumbo-schedules-for-project-managers/README.md)
 + [Yumbo. Schedules for Developers](017-yumbo-schedules-for-developers/README.md)
++ [Yumbo. Expert's satisfaction with workload](018-yumbo-experts-satisfaction-with-workload/README.md)
+
 
 
