@@ -6,6 +6,8 @@
 + [Mathematical Model of the Scheduling Problem](003-mathematical-model-of-the-scheduling-problem/README.md)
 + [Scheduling and Timetable Generation](004-scheduling-and-timetable-generation/README.md)
 + [Assigning Problems - A Classic Optimization Challenge](023-assigning-problems-a-classic-optimization-challenge/README.md)
++ [Knapsack Problems: Extensions and Variants](024-knapsack-problems-extensions-and-variants/README.md)
+
 
 
 ## Data Science Tools and Libraries
@@ -13,8 +15,10 @@
 + [Streamlit for Data Scientists](006-streamlit-for-data-scientists/README.md)
 
 
+
 ## Integer Programming
 + [Integer Programming: Lessons from Computational Mathematics](007-integer-programming-lessons-from-computational-mathematics/README.md)
+
 
 
 ## Mathematical Programming
@@ -23,9 +27,11 @@
 + [Value of the NEOS Server for Operations Research](009-value-of-the-neos-server-for-operations-research/README.md)
 
 
+
 ## LP and MILP Solvers
 + [Open Source Linear Programming Solvers](011-open-source-linear-programming-solvers/README.md)
 + [Commercial Linear Programming Solvers](012-commercial-linear-programming-solvers/README.md)
+
 
 
 ## Yumbo Program
