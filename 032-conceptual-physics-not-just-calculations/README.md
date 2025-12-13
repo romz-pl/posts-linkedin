@@ -4,9 +4,9 @@ One of the most compelling science education books I have encountered is **Conce
 
 Hewitt begins with a simple yet powerful idea: you can't fully enjoy something until you understand its rules. Like a game, the physical world becomes infinitely more engaging and beautiful when its **underlying principles** are understood. Therefore, physics is not just a subject, but also a lens through which we can see and appreciate nature's interconnected structure.
 
-Conceptual Physics stands out because it makes physics accessible to everyone, not just future engineers or scientists. It demystifies the subject by 𝗲𝘅𝗽𝗹𝗮𝗶𝗻𝗶𝗻𝗴 𝘁𝗵𝗲 𝗿𝗲𝗮𝘀𝗼𝗻𝗶𝗻𝗴 behind formulas and transforming equations into guides for thinking, rather than merely tools for solving problems.
+Conceptual Physics stands out because it makes physics accessible to everyone, not just future engineers or scientists. It demystifies the subject by **explaining the reasoning** behind formulas and transforming equations into guides for thinking, rather than merely tools for solving problems.
 
-This approach is especially valuable for professionals in non-technical roles who work with technology and innovation. Understanding the 𝗳𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹 𝗰𝗼𝗻𝗰𝗲𝗽𝘁𝘀 of how things move, interact, and change sharpens our critical thinking, creative problem-solving, and communication skills.
+This approach is especially valuable for professionals in non-technical roles who work with technology and innovation. Understanding the **fundamental concepts** of how things move, interact, and change sharpens our critical thinking, creative problem-solving, and communication skills.
 
 Are you curious about the world? Have you ever wished you understood physics better? If so, this book is for you! It's not about memorizing formulas; it's about seeing the world differently. Once you start thinking like a physicist, even everyday experiences become richer and more meaningful.
 
