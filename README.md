@@ -1,6 +1,6 @@
 # Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
-## Operations Research Application
+## Operations Research Applications
 + [Optimal Generation of Daily Schedules](001-optimal-generation-of-daily-schedules/README.md)
 + [Operations Research and Project Management](002-operations-research-and-project-management/README.md)
 + [Mathematical Model of the Scheduling Problem](003-mathematical-model-of-the-scheduling-problem/README.md)
@@ -27,5 +27,7 @@
 + [Commercial Linear Programming Solvers](012-commercial-linear-programming-solvers/README.md)
 
 
-## Yumbo program
+## Yumbo Program
 + [Yumbo. Scheduling, Planning and Resource Allocation](013-yumbo-scheduling-planning-and-resource-allocation/README.md)
++ [Yumbo. Input Parameters for Efficient Scheduling](014-yumbo-input-parameters-for-efficient-scheduling/README.md)
+
