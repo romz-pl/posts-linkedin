@@ -13,6 +13,7 @@
 ## Data Science Tools and Libraries
 + [Python for Data Scientists](005-python-for-data-scientists/README.md)
 + [Streamlit for Data Scientists](006-streamlit-for-data-scientists/README.md)
++ [Pyomo - Optimization Modeling in Python](026-pyomo-optimization-modeling-in-python/README.md)
 
 
 
