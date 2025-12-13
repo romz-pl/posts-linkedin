@@ -54,3 +54,7 @@
 + [Streamlit for Data Scientists](006-streamlit-for-data-scientists/README.md)
 + [Pyomo - Optimization Modeling in Python](026-pyomo-optimization-modeling-in-python/README.md)
 + [Machine Learning Engineering](027-machine-learning-engineering/README.md)
+
+
+## Coding Agents
++ [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
