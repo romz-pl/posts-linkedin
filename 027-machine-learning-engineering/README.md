@@ -9,16 +9,17 @@ In my opinion, organizations struggle to apply machine learning algorithms not b
 💡 The positive aspect of this situation is that the field of applied machine learning engineering is finally 𝗿𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 it merits. This phase serves as a crucial bridge between the initial stages of prototyping and the subsequent transition to production, as well as between the theoretical potential of a project and its actual impact.
 
  
-𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀
+
+## References
 🔗 A. Burkov **"Machine Learning Engineering"**, [2020](https://leanpub.com/MLE)
 
-
+```
 #MachineLearning 
 #MLOps 
 #DataScience 
 #MLEngineering 
 #AppliedML
-
+```
 
 Image created by ChatGPT.
 
