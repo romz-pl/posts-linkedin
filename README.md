@@ -36,6 +36,6 @@
 + [Yumbo. Expert's satisfaction with workload](018-yumbo-experts-satisfaction-with-workload/README.md)
 + [Yumbo's evolution. From Concept to Maturity](019-yumbos-evolution-from-concept-to-maturity/README.md)
 + [Yumbo. Significance of Advanced Reporting](020-yumbo-significance-of-advanced-reporting/README.md)
-
++ [Yumbo. Features of Mathematical Model](021-yumbo-features-of-mathematical-model/README.md)
 
 
