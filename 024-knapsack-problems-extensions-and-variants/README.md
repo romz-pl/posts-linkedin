@@ -14,7 +14,7 @@ This growing landscape of "knapsack variants" is **no longer a niche**. In fact,
 
 
 ## References
-🔗 Hans Kellerer, Ulrich Pferschy, David Pisinger **"Knapsack Problems"**, 2004, https://doi.org/10.1007/978-3-540-24777-7
+🔗 Hans Kellerer, Ulrich Pferschy, David Pisinger **"Knapsack Problems"**, [2004](https://doi.org/10.1007/978-3-540-24777-7)
 
 ```
 #OperationsResearch
