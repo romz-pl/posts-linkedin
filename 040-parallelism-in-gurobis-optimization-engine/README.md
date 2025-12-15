@@ -18,8 +18,8 @@ The key insight? Not all optimization problems benefit equally from parallelism.
 
  
 ## References
-+ 🔗 Ed Rothberg, "How to Exploit Parallelism in Linear Programming and Mixed-Integer Programming", https://www.gurobi.com/events/how-to-exploit-parallelism-in-linear-and-mixed-integer-programming/
-+ 🔗 The fractal image was created using the JavaScript Fractal Explorer program, which was written by James Wilson, see https://jsdw.me/js-fractal-explorer/
++ 🔗 Ed Rothberg, "How to Exploit Parallelism in Linear Programming and Mixed-Integer Programming", [2020](https://www.gurobi.com/events/how-to-exploit-parallelism-in-linear-and-mixed-integer-programming/)
++ 🔗 The fractal image was created using the [JavaScript Fractal Explorer](https://jsdw.me/js-fractal-explorer/) program, which was written by James Wilson.
 
 
 ```
