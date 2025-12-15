@@ -26,8 +26,12 @@
 + [Why sparse linear equations?](035-why-sparse-linear-equations/README.md)
 + [Open Source Linear Programming Solvers](011-open-source-linear-programming-solvers/README.md)
 + [Commercial Linear Programming Solvers](012-commercial-linear-programming-solvers/README.md)
-+ [Gurobi as the Gold Standard in Mathematical Optimization](038-gurobi-as-the-gold-standard-in-mathematical-optimization/README.md)
 
+
+
+## Gurobi Solver
++ [Gurobi as the Gold Standard in Mathematical Optimization](038-gurobi-as-the-gold-standard-in-mathematical-optimization/README.md)
++ [Parallelism in Gurobi's Optimization Engine](040-parallelism-in-gurobis-optimization-engine/README.md)
 
 
 ## Yumbo Program
