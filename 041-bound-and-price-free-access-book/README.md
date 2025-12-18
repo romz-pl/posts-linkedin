@@ -11,7 +11,7 @@ Branch-and-Price elegantly combines column generation with branch-and-bound sear
 
 
 ## What Makes This Book Essential
-The authors progress systematically through the algorithmic foundations. Starting with column generation for large-scale linear programs, they introduce the Dantzig-Wolfe decomposition — a reformulation technique based on convexification of sub-domains. They extend this framework to integer programs through discretization approaches, then demonstrate practical applications in vehicle routing and crew scheduling.
+The authors progress systematically through the algorithmic foundations. Starting with column generation for large-scale linear programs, they introduce the **Dantzig-Wolfe decomposition** — a reformulation technique based on convexification of sub-domains. They extend this framework to integer programs through discretization approaches, then demonstrate practical applications in vehicle routing and crew scheduling.
 
 The book doesn't stop at primal methods. A dedicated chapter explores the dual perspective, connecting Dantzig-Wolfe reformulation with Lagrangian relaxation and introducing stabilization techniques that enhance algorithmic performance. The Branch-Price-and-Cut chapter synthesizes everything, showing how branching and cutting decisions lead to optimal integer solutions.
 
