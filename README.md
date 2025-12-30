@@ -25,6 +25,7 @@
 + [Fifty Years of Integer Linear Programming](039-fifty-years-of-integer-linear-programming/README.md)
 + [Why sparse linear equations?](035-why-sparse-linear-equations/README.md)
 + [Branch-and-Price Free Access Book](041-bound-and-price-free-access-book/README.md)
++ [PDLP: A Practical First-Order Method for Large-Scale Linear Programming](043-pdlp-a-practical-first-order-method/README.md)
 
 
 
