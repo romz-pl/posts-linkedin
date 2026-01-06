@@ -13,6 +13,7 @@
 
 ## Algebraic Modeling Languages
 + [AMPL, A Mathematical Programming Language](008-ampl-a-mathematical-programming-language/README.md)
++ [Key Takeaways from AMPL's 2026 Roadmap](044-ampl-webinar-2026/README.md)
 + [Diversity of Mathematical Programming Languages](010-diversity-of-mathematical-programming-languages/README.md)
 + [Value of the NEOS Server for Operations Research](009-value-of-the-neos-server-for-operations-research/README.md)
 
