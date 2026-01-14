@@ -36,7 +36,7 @@
 + [Gurobi as the Gold Standard in Mathematical Optimization](038-gurobi-as-the-gold-standard-in-mathematical-optimization/README.md)
 + [Parallelism in Gurobi's Optimization Engine](040-parallelism-in-gurobis-optimization-engine/README.md)
 + [Progress in mathematical programming solvers from 2001 to 2020](042-progress-in-mathematical-programming/README.md)
-
++ [LP and MILP Optimization with Dr. Robert Bixby](045-Bixby-Past-Present-Future/README.md)
 
 
 ## Yumbo Program
