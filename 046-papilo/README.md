@@ -34,9 +34,9 @@ PaPILO is available as open source under the Apache 2.0 license and is part of t
 
 
 ## References
-+ PaPILO, GitHub repo, https://github.com/scipopt/papilo
-+ "PaPILO: A Parallel Presolving Library for Integer and Linear Programming with Multiprecision Support", (arXiv), Mar 2024, https://arxiv.org/abs/2206.10709
-+ The fractal image was created using the JavaScript Fractal Explorer program, which was written by James Wilson, see https://jsdw.me/js-fractal-explorer/
++ PaPILO, [GitHub repo](https://github.com/scipopt/papilo)
++ "PaPILO: A Parallel Presolving Library for Integer and Linear Programming with Multiprecision Support", [arXiv, Mar 2024](https://arxiv.org/abs/2206.10709)
++ The fractal image was created using the [JavaScript Fractal Explorer](https://jsdw.me/js-fractal-explorer/) program, which was written by James Wilson.
 
 
 ```
