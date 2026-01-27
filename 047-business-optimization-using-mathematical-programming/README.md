@@ -21,7 +21,7 @@ In an era defined by data-driven decision-making, understanding mathematical opt
 
  
 ## References
-+ Josef Kallrath **Business Optimization Using Mathematical Programming**, [2021](https://link.springer.com/book/10.1007/978-3-030-73237-0)
++ Josef Kallrath, **Business Optimization Using Mathematical Programming**, [2021](https://link.springer.com/book/10.1007/978-3-030-73237-0)
 + The fractal image was created using the [JavaScript Fractal Explorer](https://jsdw.me/js-fractal-explorer/) program, which was written by James Wilson.
 
 
