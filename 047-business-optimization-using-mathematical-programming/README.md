@@ -13,7 +13,7 @@ Significantly expanding beyond its predecessor, the second edition introduces ne
 This work stands out for its emphasis on the three pillars of practical decision-making: models, algorithms, and software. Kallrath walks readers through the entire optimization process: structuring real-world problems, translating them into mathematical models, solving the models with commercial software, and validating the results. Real-world case studies cover production planning, supply chain optimization, network planning, and academic publishing.
 
 
-## 𝗪𝗵𝗼 𝗯𝗲𝗻𝗲𝗳𝗶𝘁𝘀
+## Who benefits
 Whether you are a student learning optimization fundamentals, a researcher exploring advanced techniques, or an industrial practitioner seeking practical solutions, this book delivers. Its balanced blend of theory, didactic examples, and real-world applications makes complex optimization accessible and actionable.
 
 In an era defined by data-driven decision-making, understanding mathematical optimization is essential, not optional. Organizations save millions through optimization methods, and this book provides a roadmap for unlocking similar value within your organization.
@@ -21,7 +21,7 @@ In an era defined by data-driven decision-making, understanding mathematical opt
 
  
 ## References
-+ Josef Kallrath's "Business Optimization Using Mathematical Programming",[2021](https://link.springer.com/book/10.1007/978-3-030-73237-0)
++ Josef Kallrath **Business Optimization Using Mathematical Programming**, [2021](https://link.springer.com/book/10.1007/978-3-030-73237-0)
 + The fractal image was created using the [JavaScript Fractal Explorer](https://jsdw.me/js-fractal-explorer/) program, which was written by James Wilson.
 
 
