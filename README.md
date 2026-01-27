@@ -8,6 +8,7 @@
 + [Scheduling and Timetable Generation](004-scheduling-and-timetable-generation/README.md)
 + [Assigning Problems - A Classic Optimization Challenge](023-assigning-problems-a-classic-optimization-challenge/README.md)
 + [Knapsack Problems: Extensions and Variants](024-knapsack-problems-extensions-and-variants/README.md)
++ [Business Optimization Using Mathematical Programming](047-business-optimization-using-mathematical-programming/README.md)
 
 
 
