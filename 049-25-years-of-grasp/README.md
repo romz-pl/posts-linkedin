@@ -1,6 +1,6 @@
 # 25 Years of GRASP. Invited Review
 
-Greedy Randomized Adaptive Search Procedures with Path Relinking. An analytical review of designs and implementations
+**Greedy Randomized Adaptive Search Procedures with Path Relinking. An analytical review of designs and implementations**
 
 Manuel Laguna, Rafael Martí, Anna Martínez-Gavara, Sergio Pérez-Peló, Mauricio G.C. Resende
 
@@ -18,7 +18,6 @@ This is a comprehensive review of the Greedy Randomized Adaptive Search Procedur
  
 ## References
 + "Greedy Randomized Adaptive Search Procedures with Path Relinking. An analytical review of designs and implementations", [2025](https://doi.org/10.1016/j.ejor.2025.02.022)
-
 + The fractal image was created using the [JavaScript Fractal Explorer](https://jsdw.me/js-fractal-explorer/) program, which was written by James Wilson.
 
 ```
