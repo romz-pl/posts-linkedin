@@ -11,7 +11,7 @@ Instead of building a complete network, we generate arcs conditionally. An arc f
 + Complete the delivery on time, and
 + Return to base as required.
 
-This simple rule dramatically reduces computational complexity. For pan-European operations, for example, each truck connects to only a few dozens, not thousands.
+This simple rule dramatically reduces computational complexity. For pan-European operations, for example, each truck connects to only a few dozens, not thousands orders.
 
 ## Flexibility Through Simplicity
 This is where the approach shines. The same framework can accommodate radically different business strategies without requiring an algorithmic redesign. Whether you are planning daily routes within Poland, week-long tours across Europe, or assigning one to three orders, the digraph adapts seamlessly.
