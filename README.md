@@ -10,6 +10,7 @@
 + [Knapsack Problems: Extensions and Variants](024-knapsack-problems-extensions-and-variants/README.md)
 + [Business Optimization Using Mathematical Programming](047-business-optimization-using-mathematical-programming/README.md)
 + [Solving Full Truckload Routing Across Europe](050-tms-digraph/README.md)
++ [Solving the High School Timetabling Puzzle with Integer Linear Programming](051-timetabling-ilp/README.md)
 
 
 
