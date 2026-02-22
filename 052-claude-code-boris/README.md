@@ -21,7 +21,7 @@ So, when I watched this interview with Boris Cherny, Anthropic's Head of Claude 
 + As someone who still appreciates the elegance of a well-typed C++ system, I'll admit that this isn't necessarily a bad thing. It's the tedium disappearing so that thinking can flourish.
 
 
-**So, what does this mean for us as engineers? ** The term 'software engineer' may soon be replaced by 'builder' using Claude Code as the main tool.
+**So, what does this mean for us as engineers?** The term 'software engineer' may soon be replaced by 'builder' using Claude Code as the main tool.
 
 💡 The question isn't whether to adapt. It's how quickly.
 
