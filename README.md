@@ -1,5 +1,8 @@
 # Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
+## Claude Code
++ ["Coding is largely solved" - Boris Cherny, Head of Claude Code at Anthropic](052-claude-code-boris/README.md)
+
 
 ## Operations Research Applications
 + [Optimal Generation of Daily Schedules](001-optimal-generation-of-daily-schedules/README.md)
