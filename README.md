@@ -2,6 +2,7 @@
 
 ## Claude Code
 + ["Coding is largely solved" - Boris Cherny, Head of Claude Code at Anthropic](052-claude-code-boris/README.md)
++ [Claude Code for C++ Development](053-claude-code-features/README.md)
 
 
 ## Operations Research Applications
