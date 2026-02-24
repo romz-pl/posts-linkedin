@@ -5,6 +5,12 @@
 + [Claude Code for C++ Development](053-claude-code-features/README.md)
 
 
+
+## CppCon 2025
++ [Elevating C++ Code Quality: Lessons from CppCon 2025](054-cppcon-back-to-basics/README.md)
+
+
+
 ## Operations Research Applications
 + [Optimal Generation of Daily Schedules](001-optimal-generation-of-daily-schedules/README.md)
 + [Operations Research and Project Management](002-operations-research-and-project-management/README.md)
