@@ -24,7 +24,7 @@ If you're a C++ developer and you haven't used Claude Code yet, I encourage you 
 
 
 ## References
-+ Claude Code, https://claude.com/product/claude-code
++ Claude Code, [2026](https://claude.com/product/claude-code)
 
 
 ```
@@ -35,3 +35,4 @@ If you're a C++ developer and you haven't used Claude Code yet, I encourage you 
 #CodeQuality
 ```
 
+![Claude Code for C++ Development](./img.png)
