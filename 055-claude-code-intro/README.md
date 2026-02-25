@@ -16,7 +16,7 @@ In the past, tracking down a segfault or undefined behavior across multiple sour
 
 ## Automated Build & Git Workflows
 
-Claude Code integrates directly with your CLI tools. It can run CMake builds, execute test suites, interpret compiler output, and draft pull requests, reducing the friction between passing a test and committing cleanly.
+Claude Code integrates directly with your CLI tools. It can run `CMake` builds, execute test suites, interpret compiler output, and draft pull requests, reducing the friction between passing a test and committing cleanly.
 
 ## Architecture-Aware Refactoring
 
@@ -24,7 +24,7 @@ Refactoring C++ templates, abstract base classes, and legacy codebases without i
 
 ## CLAUDE.md for Team Standards
 
-You can embed your coding conventions, such as naming rules, memory management policies, and preferred idioms, directly into a CLAUDE.md file. At the start of every session, Claude Code reads the file, ensuring that the output is consistent with your team's standards.
+You can embed your coding conventions, such as naming rules, memory management policies, and preferred idioms, directly into a `CLAUDE.md` file. At the start of every session, Claude Code reads the file, ensuring that the output is consistent with your team's standards.
 
 What is the most important aspect? Codebase context. Every other benefit stems from Claude Code's ability to understand your entire project. That's what sets it apart from other tools — it understands.
 
