@@ -4,6 +4,7 @@
 + ["Coding is largely solved" - Boris Cherny, Head of Claude Code at Anthropic](052-claude-code-boris/README.md)
 + [Claude Code for C++ Development](053-claude-code-features/README.md)
 + [Claude Code for Experienced C++ Developers](055-claude-code-intro/README.md)
++ [Inside Claude Code with Boris Cherny](056-claude-code-inside/README.md)
 
 
 
