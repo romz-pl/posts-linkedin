@@ -5,6 +5,7 @@
 + [Claude Code for C++ Development](053-claude-code-features/README.md)
 + [Claude Code for Experienced C++ Developers](055-claude-code-intro/README.md)
 + [Inside Claude Code with Boris Cherny](056-claude-code-inside/README.md)
++ [Claude Code: the future of software engineering](57-claude-code-agentic-coding/README.md)
 
 
 
