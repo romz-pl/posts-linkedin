@@ -9,6 +9,10 @@
 + [Claude wrote a C compiler](058-claude-c-compiler/README.md)
 
 
+## Anthropic
++ [Anthropic, AI, national security, and the values](059-anthropic-clash/README.md)
+
+
 
 ## CppCon 2025
 + [Elevating C++ Code Quality: Lessons from CppCon 2025](054-cppcon-back-to-basics/README.md)
