@@ -7,6 +7,7 @@
 + [Inside Claude Code with Boris Cherny](056-claude-code-inside/README.md)
 + [Claude Code: the future of software engineering](057-claude-code-agentic-coding/README.md)
 + [Claude wrote a C compiler](058-claude-c-compiler/README.md)
++ [Claude Sonnet 4.6 is here](060-claude-sonet-4.6/README.md)
 
 
 ## Anthropic
