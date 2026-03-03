@@ -12,7 +12,7 @@ A few things that stand out to me as a developer:
 
 **The pricing is compelling.** It's the same price as the Sonnet 4.5 ($3 or $15 per million tokens), but it has the performance of an Opus-class model. This changes the economics of what you can build.
 
-**𝗙𝗼𝗿 𝘁𝗲𝗮𝗺𝘀 𝘂𝘀𝗶𝗻𝗴 𝗘𝘅𝗰𝗲𝗹.** The Claude add-in now supports MCP connectors, allowing you to pull in data from S&P Global, PitchBook, FactSet, and others without ever leaving your spreadsheet. This small change will save you from a lot of context-switching.
+**For teams using Excel.** The Claude add-in now supports MCP connectors, allowing you to pull in data from S&P Global, PitchBook, FactSet, and others without ever leaving your spreadsheet. This small change will save you from a lot of context-switching.
 
 💡 **The broader takeaway:** the gap between "capable" and "frontier" models is narrowing faster than most people expected. If you haven't revisited your model selection lately, now's a good time.
 
