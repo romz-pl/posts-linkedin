@@ -10,10 +10,10 @@ What stands out from a developer's perspective:
 **The context window is now 1M tokens (in beta).** For those working with large codebases, long conversations, or document-heavy pipelines, this represents a significant improvement — not just an increase in size. On the MRCR v2 "needle in a haystack" benchmark, Opus 4.6 scores 76% versus 18.5% for Sonnet 4.5. Context rot has been a real pain point, and this update directly addresses it.
 
 New API capabilities worth exploring:
-  • **Adaptive thinking:** The model decides when deeper reasoning is warranted rather than using a binary on/off switch.
-  • **Effort controls:** Tune for speed, cost, or intelligence depending on your use case. Options include low, medium, high, and max.
-  • **Context compaction:** Auto-summarizes older context so long-running agents don't hit limits.
-  • **128k output tokens:** Complete large-output tasks in a single request.
++ **Adaptive thinking:** The model decides when deeper reasoning is warranted rather than using a binary on/off switch.
++ **Effort controls:** Tune for speed, cost, or intelligence depending on your use case. Options include low, medium, high, and max.
++ **Context compaction:** Auto-summarizes older context so long-running agents don't hit limits.
++ **128k output tokens:** Complete large-output tasks in a single request.
 
 **In terms of products, Claude Code** (research preview) allows agent teams to create parallel subagents for code reviews and complex tasks. The new Claude in Excel and the Claude in PowerPoint preview round out a significant expansion into everyday knowledge work.
 
