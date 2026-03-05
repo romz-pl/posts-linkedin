@@ -14,6 +14,7 @@
 
 ## Anthropic
 + [Anthropic, AI, national security, and the values](059-anthropic-clash/README.md)
++ [Anthropic reshapes software development](062-claude-code-exponential/README.md)
 
 
 
