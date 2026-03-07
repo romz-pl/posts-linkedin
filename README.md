@@ -9,6 +9,7 @@
 + [Claude wrote a C compiler](058-claude-c-compiler/README.md)
 + [Claude Sonnet 4.6 is here](060-claude-sonet-4.6/README.md)
 + [Claude Opus 4.6 is now available](061-claude-opus-4.6/README.md)
++ [Evaluating Claude Sonnet 4.6 for C++23 Code Generation](064-claude-code-evaluation/README.md)
 
 
 
