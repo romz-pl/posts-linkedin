@@ -17,6 +17,7 @@
 + [Anthropic, AI, national security, and the values](059-anthropic-clash/README.md)
 + [Anthropic reshapes software development](062-claude-code-exponential/README.md)
 + [Claude as the part of AI Tsunami](063-claude-code-tsunami/README.md)
++ [Claude as the personal tutor](065-claude-tutor/README.md)
 
 
 
