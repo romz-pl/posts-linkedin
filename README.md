@@ -28,6 +28,7 @@
 
 ## Databases
 + [Intro to Databases with SQL - Harvard CS50](066-harvard-db-intro/README.md)
++ [PL/SQL Tutorial for Beginners](067-pl-sql-intro/README.md)
 
 
 
