@@ -11,10 +11,10 @@ Introduced in Oracle 11g, **DBMS_HPROF (the Hierarchical Profiler)** complements
 Both tools generate easy-to-read HTML reports. No special compilation is necessary. You only need a one-time EXECUTE grant, and no DBA privileges are required.
 
 Key Takeaways for Performance Tuning:
-  • **Don't over-optimize upfront.** Profile first, then fix what actually matters.
-  • Loops and commits inside loops are frequent culprits.
-  • Use DBMS_PROFILER for line-level analysis and DBMS_HPROF for call-tree analysis.
-  • AWR provides a macro view, while profilers provide surgical precision.
++ **Don't over-optimize upfront.** Profile first, then fix what actually matters.
++ Loops and commits inside loops are frequent culprits.
++ Use DBMS_PROFILER for line-level analysis and DBMS_HPROF for call-tree analysis.
++ AWR provides a macro view, while profilers provide surgical precision.
 
 💡 Your toolkit for slow PL/SQL: **AWR → Profiler → Execution Plans.** Master all three.
 
