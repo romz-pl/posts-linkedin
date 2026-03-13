@@ -20,7 +20,7 @@ I recently watched Steven Feuerstein's session, "Top PL/SQL Tips in Just One Hou
 💡 These aren't just theoretical improvements. They're practical steps that can be taken without requesting new tools or management approval.
 
 ## References
-🔗 Top PL/SQL Tips In Just One Hour, 14st Jul 2018, https://www.youtube.com/watch?v=vR8uDZ-u0aI
++ Top PL/SQL Tips In Just One Hour, [14st Jul 2018](https://www.youtube.com/watch?v=vR8uDZ-u0aI)
 
 
 ```
