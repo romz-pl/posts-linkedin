@@ -33,6 +33,7 @@
 + [PL/SQL: Still One of the Best Tools for Data-Centric Development](069-pl-sql-the-good-parts/README.md)
 + [Want to write better PL/SQL?](070-pl-sql-tips/README.md)
 + [PL/SQL Tutorial for Beginners](071-pl-sql-intro/README.md)
++ [The counterintuitive secret to SQL tuning](072-sql-tuning/README.md)
 
 
 
