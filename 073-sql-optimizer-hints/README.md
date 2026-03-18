@@ -14,7 +14,7 @@ Have you ever added a hint to a SQL statement only to wonder why the optimizer s
 
 **Hints should be a last resort.** Before using them, exhaust other options such as accurate statistics, the SQL Tune Advisor, and the SQL Plan Management (SPM) feature. For plan stability, SPM is far more maintainable than embedding a full outline of hints directly in your SQL.
 
-**Upgrading to 19c?** Test your hinted queries with _OPTIMIZER_IGNORE_HINTS = TRUE. The optimizer may already deliver equal or better performance without them.
+**Upgrading to 19c?** Test your hinted queries with `_OPTIMIZER_IGNORE_HINTS = TRUE`. The optimizer may already deliver equal or better performance without them.
 
 💡 Optimizer hints are powerful, but only when used precisely and purposefully.
 
