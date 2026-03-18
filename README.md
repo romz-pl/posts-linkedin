@@ -34,6 +34,7 @@
 + [Want to write better PL/SQL?](070-pl-sql-tips/README.md)
 + [PL/SQL Tutorial for Beginners](071-pl-sql-intro/README.md)
 + [The counterintuitive secret to SQL tuning](072-sql-tuning/README.md)
++ [Harnessing the power of Oracle Database optimizer hints](073-sql-optimizer-hints/README.md)
 
 
 
