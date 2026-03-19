@@ -38,6 +38,11 @@
 
 
 
+## NVIDIA
++ [Jensen Huang on AI, Compute, Tokens and the New Global Economy](077-nvidia-tmt-conference/README.md)
+
+
+
 ## Operations Research Applications
 + [Optimal Generation of Daily Schedules](001-optimal-generation-of-daily-schedules/README.md)
 + [Operations Research and Project Management](002-operations-research-and-project-management/README.md)
