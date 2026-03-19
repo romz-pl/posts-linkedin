@@ -21,21 +21,16 @@
 
 
 
+## Coding Agents
++ [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
++ [Claude Code an Agentic Coding Tool](029-claude-code-an-agentic-coding-tool/README.md)
++ [JetBrains' Junie: a Smart Coding Agent](030-jetbrains-junie-a-smart-coding-agent/README.md)
++ [Natural Language Processing](031-natural-language-processing/README.md)
+
+
+
 ## CppCon 2025
 + [Elevating C++ Code Quality: Lessons from CppCon 2025](054-cppcon-back-to-basics/README.md)
-
-
-
-## Databases
-+ [Intro to Databases with SQL - Harvard CS50](066-harvard-db-intro/README.md)
-+ [PL/SQL Tutorial for Beginners](067-pl-sql-intro/README.md)
-+ [Use the Profilers for PL/SQL](068-pl-sql-profiling/README.md)
-+ [PL/SQL: Still One of the Best Tools for Data-Centric Development](069-pl-sql-the-good-parts/README.md)
-+ [Want to write better PL/SQL?](070-pl-sql-tips/README.md)
-+ [PL/SQL Tutorial for Beginners](071-pl-sql-intro/README.md)
-+ [The counterintuitive secret to SQL tuning](072-sql-tuning/README.md)
-+ [Harnessing the power of Oracle Database optimizer hints](073-sql-optimizer-hints/README.md)
-+ [SQL Plan Management](074-sql-plan-management/README.md)
 
 
 
@@ -109,13 +104,16 @@
 + [Pyomo - Optimization Modeling in Python](026-pyomo-optimization-modeling-in-python/README.md)
 + [Machine Learning Engineering](027-machine-learning-engineering/README.md)
 
-
-
-## Coding Agents
-+ [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
-+ [Claude Code an Agentic Coding Tool](029-claude-code-an-agentic-coding-tool/README.md)
-+ [JetBrains' Junie: a Smart Coding Agent](030-jetbrains-junie-a-smart-coding-agent/README.md)
-+ [Natural Language Processing](031-natural-language-processing/README.md)
+## Databases
++ [Intro to Databases with SQL - Harvard CS50](066-harvard-db-intro/README.md)
++ [PL/SQL Tutorial for Beginners](067-pl-sql-intro/README.md)
++ [Use the Profilers for PL/SQL](068-pl-sql-profiling/README.md)
++ [PL/SQL: Still One of the Best Tools for Data-Centric Development](069-pl-sql-the-good-parts/README.md)
++ [Want to write better PL/SQL?](070-pl-sql-tips/README.md)
++ [PL/SQL Tutorial for Beginners](071-pl-sql-intro/README.md)
++ [The counterintuitive secret to SQL tuning](072-sql-tuning/README.md)
++ [Harnessing the power of Oracle Database optimizer hints](073-sql-optimizer-hints/README.md)
++ [SQL Plan Management](074-sql-plan-management/README.md)
 
 
 
