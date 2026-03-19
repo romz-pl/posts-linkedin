@@ -29,7 +29,7 @@
 
 
 ## OpenClaw
-+ [OpenClaw: interview with Peter Steinberger](075-openclaw-interviewgent/README.md)
++ [OpenClaw: interview with Peter Steinberger](075-openclaw-interview/README.md)
 
 
 ## CppCon 2025
