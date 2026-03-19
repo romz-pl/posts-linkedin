@@ -8,12 +8,12 @@ Watch as NVIDIA CEO Jensen Huang explains how AI is reshaping the global economy
 ## Reference
 + Morgan Stanley TMT Conference 2026 | Jensen Huang on AI, Compute, Tokens and the New Global Economy, [18th Mar 2026](https://www.youtube.com/watch?v=xv7UVAfyebk)
 
-``
+```
 #AI
 #NVIDIA
 #JensenHuang
 #GlobalEconomy
 #DigitalTransformation
-``
+```
 
 ![Jensen Huang on AI, Compute, Tokens and the New Global Economy](./img.png)
