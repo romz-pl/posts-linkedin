@@ -28,6 +28,9 @@
 + [Natural Language Processing](031-natural-language-processing/README.md)
 
 
+## OpenClaw
++ [OpenClaw: interview with Peter Steinberger](075-openclaw-interviewgent/README.md)
+
 
 ## CppCon 2025
 + [Elevating C++ Code Quality: Lessons from CppCon 2025](054-cppcon-back-to-basics/README.md)
