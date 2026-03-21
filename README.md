@@ -1,6 +1,6 @@
 # Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
-## Claude Code
+## Claude Code, Anthropic
 + ["Coding is largely solved" - Boris Cherny, Head of Claude Code at Anthropic](052-claude-code-boris/README.md)
 + [Claude Code for C++ Development](053-claude-code-features/README.md)
 + [Claude Code for Experienced C++ Developers](055-claude-code-intro/README.md)
@@ -32,6 +32,15 @@
 ## OpenClaw
 + [OpenClaw: interview with Peter Steinberger](075-openclaw-interview/README.md)
 + [OpenClaw Full Tutorial for Beginners](076-openclaw-tutorial/README.md)
+
+
+
+## Codex, OpenAI
++ [Codex, OpenAI: Agentic Delegation](080-codex-openai-build-hour/README.md)
+
+
+## Refactorin and Modularization
++ [Legacy Codebase Isn't Doomed](081-cpp-modularization/README.md)
 
 
 ## CppCon 2025
