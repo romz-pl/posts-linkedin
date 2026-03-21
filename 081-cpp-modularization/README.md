@@ -1,6 +1,6 @@
 # Legacy Codebase Isn't Doomed
 
-I've seen it countless times in C++ shops: a 300,000-line monolith, no meaningful documentation, original authors long gone, and a #include chain that could wrap the globe twice. That's not technical debt. That's legacy code, and it's more common than anyone admits.
+I've seen it countless times in C++ shops: a 3,000,000-line monolith, no meaningful documentation, original authors long gone, and a #include chain that could wrap the globe twice. That's not technical debt. That's legacy code, and it's more common than anyone admits.
 
 The good news? There's a proven path forward: **modularization**.
 
