@@ -45,7 +45,7 @@ But this incremental, systematic approach is what keeps the system releasable th
  
 
 ## References
-+ Z. Romanowski, Modularization of legacy code, [2024](https://www.linkedin.com/pulse/modularization-legacy-code-zbigniew-romanowski)
++ Z. Romanowski, Modularization of legacy code, [2021](https://www.linkedin.com/pulse/modularization-legacy-code-zbigniew-romanowski)
 + M. Fowler, Refactoring: Improving the Design of Existing Code, [2018](https://martinfowler.com/books/refactoring.html)
 
 
