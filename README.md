@@ -27,6 +27,7 @@
 + [Claude Code an Agentic Coding Tool](029-claude-code-an-agentic-coding-tool/README.md)
 + [JetBrains' Junie: a Smart Coding Agent](030-jetbrains-junie-a-smart-coding-agent/README.md)
 + [Natural Language Processing](031-natural-language-processing/README.md)
++ [AI and Math: interview with Terence Tao](082-terence-tao/README.md)
 
 
 ## OpenClaw
