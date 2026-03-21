@@ -39,7 +39,7 @@
 + [Codex, OpenAI: Agentic Delegation](080-codex-openai-build-hour/README.md)
 
 
-## Refactorin and Modularization
+## Refactoring and Modularization
 + [Legacy Codebase Isn't Doomed](081-cpp-modularization/README.md)
 
 
