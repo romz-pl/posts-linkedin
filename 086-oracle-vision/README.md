@@ -17,7 +17,7 @@ At Oracle's recent keynote, Larry Ellison boldly claimed, "AI changes everything
 
 
 ## References
-🔗 Larry Ellison Keynote on Oracle's Vision and Strategy: Oracle AI World 2025, 14th Oct 2025, https://www.youtube.com/watch?v=4eCFmbX5rAQ
++ Larry Ellison Keynote on Oracle's Vision and Strategy: Oracle AI World 2025, [14th Oct 2025](https://www.youtube.com/watch?v=4eCFmbX5rAQ)
 
 ```
 #AI
