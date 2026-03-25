@@ -18,7 +18,7 @@ Modular programming, as defined by Wikipedia, is a method of computer programmin
 Legacy code is an outdated program with the following characteristics 
 + It is about 30 years old, with a spaghetti-like code structure. 
 + It lacks documentation or has outdated, inadequate documentation. 
-+ The people who worked on it are either no longer with the company or or have been reassigned to other projects. 
++ The people who worked on it are either no longer with the company or have been reassigned to other projects. 
 + There is a lack of comprehensive information about how the system works and its underlying assumptions. 
 
 
