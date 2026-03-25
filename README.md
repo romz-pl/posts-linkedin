@@ -3,6 +3,7 @@
 ## Claude Code, Anthropic
 + ["Coding is largely solved" - Boris Cherny, Head of Claude Code at Anthropic](052-claude-code-boris/README.md)
 + [Claude Code for C++ Development](053-claude-code-features/README.md)
++ [Claude Code an Agentic Coding Tool](029-claude-code-an-agentic-coding-tool/README.md)
 + [Claude Code for Experienced C++ Developers](055-claude-code-intro/README.md)
 + [Inside Claude Code with Boris Cherny](056-claude-code-inside/README.md)
 + [Claude Code: the future of software engineering](057-claude-code-agentic-coding/README.md)
@@ -23,8 +24,6 @@
 
 
 ## Coding Agents
-+ [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
-+ [Claude Code an Agentic Coding Tool](029-claude-code-an-agentic-coding-tool/README.md)
 + [JetBrains' Junie: a Smart Coding Agent](030-jetbrains-junie-a-smart-coding-agent/README.md)
 + [Natural Language Processing](031-natural-language-processing/README.md)
 + [AI and Math: interview with Terence Tao](082-terence-tao/README.md)
@@ -39,7 +38,10 @@
 
 
 ## Codex, OpenAI
++ [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
 + [Codex, OpenAI: Agentic Delegation](080-codex-openai-build-hour/README.md)
++ [OpenAI's Next Moonshot: A Fully Automated AI Researcher](87-openai-pachocki/README.md)
+
 
 
 ## Refactoring and Modularization
