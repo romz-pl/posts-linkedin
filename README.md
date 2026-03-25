@@ -40,7 +40,7 @@
 ## Codex, OpenAI
 + [OpenAI's Codex and Software Development](028-openais-codex-and-software-development/README.md)
 + [Codex, OpenAI: Agentic Delegation](080-codex-openai-build-hour/README.md)
-+ [OpenAI's Next Moonshot: A Fully Automated AI Researcher](87-openai-pachocki/README.md)
++ [OpenAI's Next Moonshot: A Fully Automated AI Researcher](087-openai-pachocki/README.md)
 
 
 
