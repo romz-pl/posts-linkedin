@@ -57,6 +57,7 @@
 ## NVIDIA
 + [NVIDIA GTC Keynote 2026](078-nvidia-gtc/README.md)
 + [Jensen Huang on AI, Compute, Tokens and the New Global Economy](077-nvidia-tmt-conference/README.md)
++ [Jensen Huang on the Lex Fridman Podcast](089-jensen-huang/README.md)
 
 
 
