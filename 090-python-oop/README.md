@@ -2,7 +2,7 @@
 
 Object-oriented programming (OOP) is one of those concepts that separates good developers from great ones. However, it is also one of the most misunderstood topics among beginners and intermediate developers.
 
-**The "aha" moment begins with classes.** Instead of juggling four loosely related variables, you create your own data types—objects with attributes and behaviors that belong together.
+**The "aha" moment begins with classes.** Instead of juggling four loosely related variables, you create your own data types — objects with attributes and behaviors that belong together.
 
 **Constructors (__init__) are your best friend.** They enforce structure when objects are created, so you always know what attributes an instance should have.
 
