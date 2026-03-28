@@ -64,6 +64,7 @@
 ## Python
 + [AsyncIO Python Tutorial](085-python-asyncio/README.md)
 + [Object Oriented Programming with Python](090-python-oop/README.md)
++ [Python NumPy Tutorials](091-python-numpy/README.md)
 
 
 
