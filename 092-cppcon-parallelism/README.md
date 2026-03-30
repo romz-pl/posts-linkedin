@@ -26,7 +26,7 @@ For massively uniform data processing, C++17's parallel algorithms offer a high-
 
 
 ## References
-🔗 Choose the Right C++ Parallelism Tool | Low-Level vs Async vs Coroutines vs Data Parallel, CppCon 2025, https://www.youtube.com/watch?v=7a9AP4rD08M
++ Choose the Right C++ Parallelism Tool | Low-Level vs Async vs Coroutines vs Data Parallel, [CppCon 2025](https://www.youtube.com/watch?v=7a9AP4rD08M)
 
 
 ```
