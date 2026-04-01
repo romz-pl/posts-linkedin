@@ -29,7 +29,7 @@ Carpenter's closing advice was practical: first, rely on modern C++ and the STL 
 
 
 ## References
-🔗 Back to Basics: Custom Allocators Explained - From Basics to Advanced - Kevin Carpenter, CppCon 2025, [13 Feb 2026](https://www.youtube.com/watch?v=RpD-0oqGEzE)
++ Back to Basics: Custom Allocators Explained - From Basics to Advanced - Kevin Carpenter, CppCon 2025, [13 Feb 2026](https://www.youtube.com/watch?v=RpD-0oqGEzE)
 
 
 ```
