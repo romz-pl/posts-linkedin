@@ -10,9 +10,9 @@ Carpenter started by asking a question that many C++ developers overlook. What i
 
 ## Two Allocator Patterns Worth Knowing
 
-  • The **pool allocator** allocates a large block of memory upfront and manages fixed-size objects using an intrusive linked list. It provides constant-time allocation, zero fragmentation, and reusable objects without repeated heap requests. Carpenter uses this pattern in production to process high-frequency credit card transactions, for which throughput and predictable latency are essential.
++ The **pool allocator** allocates a large block of memory upfront and manages fixed-size objects using an intrusive linked list. It provides constant-time allocation, zero fragmentation, and reusable objects without repeated heap requests. Carpenter uses this pattern in production to process high-frequency credit card transactions, for which throughput and predictable latency are essential.
 
-  • The **stack allocator** sequentially allocates memory using a pointer offset. It supports mixed types and offers the fastest allocation once memory has been acquired. It also enables bulk deallocation via checkpoints. These features make it ideal for scratchpad memory, game engine frames, and short-lived data.
++ The **stack allocator** sequentially allocates memory using a pointer offset. It supports mixed types and offers the fastest allocation once memory has been acquired. It also enables bulk deallocation via checkpoints. These features make it ideal for scratchpad memory, game engine frames, and short-lived data.
 
 
 ## The std::allocator Contract
@@ -29,7 +29,7 @@ Carpenter's closing advice was practical: first, rely on modern C++ and the STL 
 
 
 ## References
-🔗 Back to Basics: Custom Allocators Explained - From Basics to Advanced - Kevin Carpenter, CppCon 2025, https://www.youtube.com/watch?v=RpD-0oqGEzE
+🔗 Back to Basics: Custom Allocators Explained - From Basics to Advanced - Kevin Carpenter, CppCon 2025, [13 Feb 2026](https://www.youtube.com/watch?v=RpD-0oqGEzE)
 
 
 ```
