@@ -52,7 +52,8 @@
 ## CppCon 2025
 + [Elevating C++ Code Quality: Lessons from CppCon 2025](054-cppcon-back-to-basics/README.md)
 + [Choosing the Right C++ Parallelism Tool](092-cppcon-parallelism/README.md)
-+ [C++ Custom Allocators Explained, CppCon 2025](093-cppcon-allocators/README.md)
++ [C++ Custom Allocators Explained](093-cppcon-allocators/README.md)
++ [C++ Concepts: The Fundamental Shift](094-cppcon-cpp-concepts/README.md)
 
 
 
