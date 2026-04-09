@@ -31,7 +31,7 @@ The motivation is clear: 70–90% of transformer computing power is spent on mat
 
 
 ## References
-🔗 Matrix Multiplication Deep Dive || Cache Blocking, SIMD & Parallelization, CppCon 2025, https://www.youtube.com/watch?v=GHctcSBd6Z4
++ Matrix Multiplication Deep Dive || Cache Blocking, SIMD & Parallelization, CppCon 2025, [25 Feb 2026](https://www.youtube.com/watch?v=GHctcSBd6Z4)
 
 
 ```
