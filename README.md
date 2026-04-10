@@ -55,6 +55,7 @@
 + [C++ Custom Allocators Explained](093-cppcon-allocators/README.md)
 + [C++ Concepts: The Fundamental Shift](094-cppcon-cpp-concepts/README.md)
 + [Matrix Multiplication Deep Dive](095-cppcon-matrix-multiplication/README.md)
++ [CppCon: CMake doesn't have to be painful](096-cppcon-cmake/README.md)
 
 
 
