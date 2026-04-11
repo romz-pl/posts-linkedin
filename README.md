@@ -59,6 +59,11 @@
 
 
 
+## CppCon 2014
++ [Lock-Free Programming by Herb Sutter CppCon 2014](097-cppcon2014-lock-free/README.md)
+
+
+
 ## NVIDIA
 + [NVIDIA GTC Keynote 2026](078-nvidia-gtc/README.md)
 + [Jensen Huang on AI, Compute, Tokens and the New Global Economy](077-nvidia-tmt-conference/README.md)
