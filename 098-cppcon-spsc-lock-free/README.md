@@ -5,9 +5,9 @@ At CppCon 2023, Charles Frasch presented a talk on the construction of a single 
 
 ## The progression is as follows:
 
-+ **FIFO2**: Naive implementation with std::atomic cursors (sequential consistency by default): ~12–13 million operations per second (ops/sec).
++ **FIFO2**: Naive implementation with `std::atomic` cursors (sequential consistency by default): ~12–13 million operations per second (ops/sec).
 
-+ **FIFO3**: Switched to relaxed/acquire-release memory ordering and fixed false sharing by aligning cursors to cache line boundaries (std::hardware_destructive_interference_size): ~50 million ops/sec (~4x improvement).
++ **FIFO3**: Switched to `relaxed` / `acquire` / `release` memory ordering and fixed false sharing by aligning cursors to cache line boundaries (`std::hardware_destructive_interference_size`): ~50 million ops/sec (~4x improvement).
 
 + **FIFO4**: Added cached cursor copies to avoid unnecessary atomic loads when the queue is not full or empty: ~165 million ops/sec (~3.5x improvement over FIFO3).
 
@@ -15,15 +15,15 @@ At CppCon 2023, Charles Frasch presented a talk on the construction of a single 
 
 ## Key lessons from the talk:
 
-+ **Data races are silent killers**. The naive version passed the unit tests in debug mode but failed in release mode. Always run ThreadSanitizer. Always.
++ **Data races are silent killers**. The naive version passed the unit tests in debug mode but failed in release mode. Always run `ThreadSanitizer`. Always.
 
 + **False sharing is costly**. When push and pop cursors are on the same cache line, they create cache coherency traffic between cores. Moving them to individual cache lines delivered a massive speed boost.
 
-+ **Sequential consistency is a blunt instrument**. The default memory ordering on std::atomic is excessive. Switching to memory_order_acquire/memory_order_release and memory_order_relaxed, when safe, removes unnecessary synchronization overhead.
++ **Sequential consistency is a blunt instrument**. The default memory ordering on `std::atomic` is excessive. Switching to `memory_order_acquire` / `memory_order_release` and `memory_order_relaxed`, when safe, removes unnecessary synchronization overhead.
 
-+ **Measure everything**. Boost.Lockfree's SPSC queue performed worse than FIFO4 in benchmarks, likely due to compiler opacity around functors. Always profile with your actual compiler and flags.
++ **Measure everything**. `Boost.Lockfree`'s SPSC queue performed worse than **FIFO4** in benchmarks, likely due to compiler opacity around functors. Always profile with your actual compiler and flags.
 
-+ **Index computation is important**. The % operator costs 20–30 cycles. However, constraining capacity to a power of two and using the bitwise & operator reduces that cost to a single cycle.
++ **Index computation is important**. The `%` operator costs 20–30 cycles. However, constraining capacity to a power of two and using the bitwise `&` operator reduces that cost to a single cycle.
 
 💡 The talk is a masterclass in the intersection of C++ memory model theory and practical systems engineering. Whether you're building trading pipelines, real-time audio, or any producer-consumer architecture, the principles here apply directly.
 
