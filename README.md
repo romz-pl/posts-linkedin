@@ -58,7 +58,7 @@
 + [CppCon: CMake doesn't have to be painful](096-cppcon-cmake/README.md)
 
 
-## CppCon 2024
+## CppCon 2023
 + [Lock-Free Single Producer Single Consumer FIFO](098-cppcon-spsc-lock-free/README.md)
 
 
