@@ -58,6 +58,9 @@
 + [CppCon: CMake doesn't have to be painful](096-cppcon-cmake/README.md)
 
 
+## CppCon 2024
++ [Lock-Free Single Producer Single Consumer FIFO](098-cppcon-spsc-lock-free/README.md)
+
 
 ## CppCon 2014
 + [Lock-Free Programming by Herb Sutter CppCon 2014](097-cppcon2014-lock-free/README.md)
