@@ -1,0 +1,206 @@
+<svg viewBox="0 0 1200 627" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <!-- Deep dark background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#03060f"/>
+      <stop offset="50%" style="stop-color:#060d1a"/>
+      <stop offset="100%" style="stop-color:#020508"/>
+    </linearGradient>
+
+    <!-- Amber glow -->
+    <radialGradient id="amberGlow" cx="65%" cy="50%" r="45%">
+      <stop offset="0%" style="stop-color:#ff9500;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#ff9500;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Left blue glow -->
+    <radialGradient id="blueGlow" cx="15%" cy="40%" r="35%">
+      <stop offset="0%" style="stop-color:#00aaff;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Speed line gradient -->
+    <linearGradient id="speedLine1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff9500;stop-opacity:0"/>
+      <stop offset="60%" style="stop-color:#ff9500;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#fff5e0;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="speedLine2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00aaff;stop-opacity:0"/>
+      <stop offset="55%" style="stop-color:#00aaff;stop-opacity:0.7"/>
+      <stop offset="100%" style="stop-color:#a8dfff;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="speedLine3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff9500;stop-opacity:0"/>
+      <stop offset="70%" style="stop-color:#ff9500;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#ffcc66;stop-opacity:0.9"/>
+    </linearGradient>
+
+    <!-- Circuit node glow filter -->
+    <filter id="nodeGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="textGlow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="amberTextGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Clip path -->
+    <clipPath id="bounds">
+      <rect width="1200" height="627"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bounds)">
+    <!-- Background -->
+    <rect width="1200" height="627" fill="url(#bgGrad)"/>
+    <rect width="1200" height="627" fill="url(#amberGlow)"/>
+    <rect width="1200" height="627" fill="url(#blueGlow)"/>
+
+    <!-- ── CIRCUIT BOARD TRACES (background layer) ── -->
+    <!-- Horizontal bus lines -->
+    <line x1="0" y1="120" x2="520" y2="120" stroke="#1a2a3a" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="200" x2="400" y2="200" stroke="#1a2a3a" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="310" x2="480" y2="310" stroke="#1a2a3a" stroke-width="1" opacity="0.5"/>
+    <line x1="0" y1="440" x2="350" y2="440" stroke="#1a2a3a" stroke-width="1" opacity="0.4"/>
+    <line x1="0" y1="530" x2="430" y2="530" stroke="#1a2a3a" stroke-width="1" opacity="0.4"/>
+
+    <!-- Vertical connectors left side -->
+    <line x1="80" y1="120" x2="80" y2="310" stroke="#1a2a3a" stroke-width="1" opacity="0.5"/>
+    <line x1="160" y1="200" x2="160" y2="440" stroke="#1a2a3a" stroke-width="1" opacity="0.4"/>
+    <line x1="240" y1="120" x2="240" y2="530" stroke="#1a2a3a" stroke-width="1" opacity="0.4"/>
+    <line x1="320" y1="200" x2="320" y2="440" stroke="#1a2a3a" stroke-width="1" opacity="0.35"/>
+
+    <!-- Circuit nodes (dim) -->
+    <circle cx="80" cy="120" r="3" fill="#1a3a5a" opacity="0.7"/>
+    <circle cx="160" cy="200" r="3" fill="#1a3a5a" opacity="0.6"/>
+    <circle cx="240" cy="310" r="3" fill="#1a3a5a" opacity="0.6"/>
+    <circle cx="320" cy="440" r="3" fill="#1a3a5a" opacity="0.5"/>
+    <circle cx="80" cy="530" r="3" fill="#1a3a5a" opacity="0.5"/>
+    <circle cx="400" cy="120" r="3" fill="#1a3a5a" opacity="0.5"/>
+    <circle cx="480" cy="200" r="3" fill="#1a3a5a" opacity="0.4"/>
+
+    <!-- ── SPEED BURST LINES (from left, converging right) ── -->
+    <!-- Main amber beam -->
+    <line x1="0" y1="313" x2="1180" y2="313" stroke="url(#speedLine1)" stroke-width="2.5" opacity="0.95"/>
+    <!-- Secondary beams -->
+    <line x1="0" y1="278" x2="1160" y2="295" stroke="url(#speedLine2)" stroke-width="1.2" opacity="0.7"/>
+    <line x1="0" y1="348" x2="1140" y2="332" stroke="url(#speedLine2)" stroke-width="1.2" opacity="0.6"/>
+    <line x1="0" y1="250" x2="1100" y2="275" stroke="url(#speedLine3)" stroke-width="0.8" opacity="0.55"/>
+    <line x1="0" y1="375" x2="1100" y2="355" stroke="url(#speedLine3)" stroke-width="0.8" opacity="0.5"/>
+    <line x1="0" y1="220" x2="1050" y2="258" stroke="url(#speedLine1)" stroke-width="0.5" opacity="0.35"/>
+    <line x1="0" y1="405" x2="1050" y2="372" stroke="url(#speedLine1)" stroke-width="0.5" opacity="0.3"/>
+    <line x1="0" y1="192" x2="980" y2="240" stroke="url(#speedLine2)" stroke-width="0.4" opacity="0.25"/>
+    <line x1="0" y1="435" x2="970" y2="390" stroke="url(#speedLine2)" stroke-width="0.4" opacity="0.22"/>
+    <line x1="0" y1="165" x2="900" y2="222" stroke="url(#speedLine3)" stroke-width="0.3" opacity="0.18"/>
+    <line x1="0" y1="462" x2="890" y2="410" stroke="url(#speedLine3)" stroke-width="0.3" opacity="0.16"/>
+
+    <!-- Terminal flash point (right side) -->
+    <circle cx="1182" cy="313" r="18" fill="#ff9500" opacity="0.08"/>
+    <circle cx="1182" cy="313" r="9" fill="#ff9500" opacity="0.18"/>
+    <circle cx="1182" cy="313" r="4" fill="#ffdd99" opacity="0.9" filter="url(#nodeGlow)"/>
+    <circle cx="1182" cy="313" r="2" fill="#ffffff" opacity="1"/>
+
+    <!-- ── LATENCY WAVEFORM (oscilloscope style) ── -->
+    <!-- Faint waveform under the text area -->
+    <polyline
+      points="60,490 90,488 110,470 125,490 145,492 165,460 180,490 200,492 220,475 240,490 260,493 280,468 300,490 320,491 340,472 360,490"
+      fill="none" stroke="#00aaff" stroke-width="1" opacity="0.2"/>
+
+    <!-- ── BINARY DATA RAIN (faint, right side) ── -->
+    <text x="880" y="80" font-size="9" fill="#1e3a1e" opacity="0.5" letter-spacing="4">01001100 01000001 01010100</text>
+    <text x="920" y="96" font-size="9" fill="#1e3a1e" opacity="0.4" letter-spacing="4">11001110 00110101 10101101</text>
+    <text x="900" y="112" font-size="9" fill="#1e3a1e" opacity="0.35" letter-spacing="4">01110100 11001001 00110110</text>
+    <text x="860" y="540" font-size="9" fill="#1e3a1e" opacity="0.4" letter-spacing="4">10110100 01011001 11010011</text>
+    <text x="900" y="556" font-size="9" fill="#1e3a1e" opacity="0.35" letter-spacing="4">00100111 10001010 01101001</text>
+
+    <!-- ── ACTIVE CIRCUIT TRACES (glowing, amber) ── -->
+    <line x1="0" y1="120" x2="350" y2="120" stroke="#ff9500" stroke-width="1" opacity="0.3"/>
+    <line x1="0" y1="530" x2="280" y2="530" stroke="#ff9500" stroke-width="0.8" opacity="0.25"/>
+    <line x1="240" y1="120" x2="240" y2="200" stroke="#ff9500" stroke-width="0.8" opacity="0.22"/>
+
+    <!-- ── NANOSECONDS COUNTER (top right, monospace) ── -->
+    <text x="1140" y="55" font-family="'Courier New', monospace" font-size="11" fill="#ff9500" opacity="0.5" text-anchor="end" letter-spacing="1">LATENCY</text>
+    <text x="1140" y="76" font-family="'Courier New', monospace" font-size="22" fill="#ff9500" opacity="0.85" text-anchor="end" font-weight="bold" filter="url(#softGlow)">~10 ns</text>
+    <line x1="1000" y1="85" x2="1140" y2="85" stroke="#ff9500" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- ── SMALL TECH BADGES ── -->
+    <!-- CPU Cache badge -->
+    <rect x="55" y="148" width="78" height="22" rx="2" fill="none" stroke="#1e4a6a" stroke-width="1" opacity="0.7"/>
+    <text x="94" y="163" font-family="'Courier New', monospace" font-size="9" fill="#4499bb" text-anchor="middle" letter-spacing="0.5">L1 / L2 / L3</text>
+
+    <!-- RDTSC badge -->
+    <rect x="55" y="178" width="58" height="22" rx="2" fill="none" stroke="#1e4a6a" stroke-width="1" opacity="0.6"/>
+    <text x="84" y="193" font-family="'Courier New', monospace" font-size="9" fill="#4499bb" text-anchor="middle" letter-spacing="0.5">RDTSC</text>
+
+    <!-- seqlock badge -->
+    <rect x="55" y="208" width="58" height="22" rx="2" fill="none" stroke="#3a3a0a" stroke-width="1" opacity="0.6"/>
+    <text x="84" y="223" font-family="'Courier New', monospace" font-size="9" fill="#aaaa22" text-anchor="middle" letter-spacing="0.5">seqlock</text>
+
+    <!-- SPMC badge -->
+    <rect x="55" y="238" width="58" height="22" rx="2" fill="none" stroke="#3a3a0a" stroke-width="1" opacity="0.5"/>
+    <text x="84" y="253" font-family="'Courier New', monospace" font-size="9" fill="#aaaa22" text-anchor="middle" letter-spacing="0.5">SPMC Q</text>
+
+    <!-- ── MAIN TITLE BLOCK ── -->
+    <!-- Eyebrow label -->
+    <text x="600" y="218" font-family="'Courier New', monospace" font-size="12" fill="#ff9500" text-anchor="middle" letter-spacing="6" opacity="0.9">MEETING C++ 2022</text>
+
+    <!-- Main headline -->
+    <text x="600" y="275" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#ffffff" text-anchor="middle" font-weight="bold" filter="url(#textGlow)" letter-spacing="-1">TRADING AT</text>
+    <text x="600" y="345" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#ff9500" text-anchor="middle" font-weight="bold" filter="url(#amberTextGlow)" letter-spacing="-1">LIGHT SPEED</text>
+
+    <!-- Subtitle rule and text -->
+    <line x1="300" y1="368" x2="540" y2="368" stroke="#ff9500" stroke-width="0.8" opacity="0.4"/>
+    <line x1="660" y1="368" x2="900" y2="368" stroke="#ff9500" stroke-width="0.8" opacity="0.4"/>
+    <text x="600" y="373" font-family="'Courier New', monospace" font-size="10" fill="#ff9500" text-anchor="middle" letter-spacing="3" opacity="0.7">◆</text>
+
+    <text x="600" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="19" fill="#c8d8e8" text-anchor="middle" letter-spacing="1" opacity="0.9">Designing Low Latency Systems in C++</text>
+
+    <!-- Speaker name -->
+    <text x="600" y="438" font-family="'Courier New', monospace" font-size="13" fill="#7aaacc" text-anchor="middle" letter-spacing="2" opacity="0.85">David Gross · Auto-Trading Tech Lead · Optiver</text>
+
+    <!-- ── BOTTOM TAG LINE ── -->
+    <line x1="60" y1="575" x2="1140" y2="575" stroke="#1a2a3a" stroke-width="1" opacity="0.8"/>
+
+    <!-- Bottom left: C++ tag -->
+    <rect x="60" y="587" width="44" height="20" rx="2" fill="#ff9500" opacity="0.15"/>
+    <rect x="60" y="587" width="44" height="20" rx="2" fill="none" stroke="#ff9500" stroke-width="0.8" opacity="0.5"/>
+    <text x="82" y="601" font-family="'Courier New', monospace" font-size="10" fill="#ff9500" text-anchor="middle" letter-spacing="1">#cpp</text>
+
+    <rect x="112" y="587" width="90" height="20" rx="2" fill="#ff9500" opacity="0.1"/>
+    <rect x="112" y="587" width="90" height="20" rx="2" fill="none" stroke="#ff9500" stroke-width="0.8" opacity="0.4"/>
+    <text x="157" y="601" font-family="'Courier New', monospace" font-size="10" fill="#ff9500" text-anchor="middle" letter-spacing="1">#lowlatency</text>
+
+    <rect x="210" y="587" width="100" height="20" rx="2" fill="#ff9500" opacity="0.08"/>
+    <rect x="210" y="587" width="100" height="20" rx="2" fill="none" stroke="#ff9500" stroke-width="0.8" opacity="0.35"/>
+    <text x="260" y="601" font-family="'Courier New', monospace" font-size="10" fill="#ff9500" text-anchor="middle" letter-spacing="1">#hft #trading</text>
+
+    <!-- Bottom right: branding -->
+    <text x="1140" y="601" font-family="'Courier New', monospace" font-size="10" fill="#334455" text-anchor="end" letter-spacing="2">PERFORMANCE · CONCURRENCY · DESIGN</text>
+
+    <!-- ── CORNER DECORATION ── -->
+    <!-- Top-left bracket -->
+    <polyline points="20,20 20,50 50,50" fill="none" stroke="#ff9500" stroke-width="1.5" opacity="0.35"/>
+    <!-- Top-right bracket -->
+    <polyline points="1180,20 1180,50 1150,50" fill="none" stroke="#ff9500" stroke-width="1.5" opacity="0.35"/>
+    <!-- Bottom-left bracket -->
+    <polyline points="20,607 20,577 50,577" fill="none" stroke="#ff9500" stroke-width="1.5" opacity="0.35"/>
+    <!-- Bottom-right bracket -->
+    <polyline points="1180,607 1180,577 1150,577" fill="none" stroke="#ff9500" stroke-width="1.5" opacity="0.35"/>
+
+    <!-- ── SUBTLE SCAN LINE OVERLAY ── -->
+    <rect width="1200" height="627" fill="url(#bgGrad)" opacity="0.04"/>
+  </g>
+</svg>

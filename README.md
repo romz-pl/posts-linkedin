@@ -58,12 +58,10 @@
 + [CppCon: CMake doesn't have to be painful](096-cppcon-cmake/README.md)
 
 
-## CppCon 2023
-+ [Lock-Free Single Producer Single Consumer FIFO](098-cppcon-spsc-lock-free/README.md)
-
-
-## CppCon 2014
-+ [Lock-Free Programming by Herb Sutter CppCon 2014](097-cppcon2014-lock-free/README.md)
+## Lock-Free Programming
++ [Trading at light speed by David Gross, Meeting C++ 2022](099-meetingcpp-low-latency/README.md)
++ [Lock-Free Single Producer Single Consumer FIFO, CppCon 2023](098-cppcon-spsc-lock-free/README.md)
++ [Lock-Free Programming by Herb Sutter, CppCon 2014](097-cppcon2014-lock-free/README.md)
 
 
 
