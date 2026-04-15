@@ -14,8 +14,8 @@ The culprit? **Cache coherency traffic**. In a naive SPSC queue, each push reads
 The elegant fix is that each side keeps a local cached copy of the other side's index. The remote index is only re-read when the local cache indicates that the queue is either full or empty. This approach dramatically reduces cross-core coherency traffic while preserving correctness via acquire/release memory ordering.
 
 The following key implementation details are worth noting:
-+ Align atomic indices to cache line boundaries using alignas(64) to prevent false sharing.
-+ Use std::memory_order_relaxed for local loads and acquire/release only at synchronization points.
++ Align atomic indices to cache line boundaries using `alignas(64)` to prevent false sharing.
++ Use `std::memory_order_relaxed` for local loads and `acquire` / `release` only at synchronization points.
 + Consider using huge pages and batched push/pop for further scaling gains.
 
 
