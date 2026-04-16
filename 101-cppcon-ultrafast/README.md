@@ -6,11 +6,11 @@ From the start, his core message was clear: low latency is a design constraint, 
 
 
 ## Understand your data before choosing your data structure
-While optimizing an order book, David demonstrated that the std::map data structure exhibits poor cache locality when dealing with realistic workloads. Switching to a sorted std::vector with lower_bound dramatically improved performance.
+While optimizing an order book, David demonstrated that the `std::map data` structure exhibits poor cache locality when dealing with realistic workloads. Switching to a sorted `std::vector` with `lower_bound` dramatically improved performance.
 
 
 ## Avoid node-based containers by default
-Avoid std::map, std::set, and std::list unless they are strictly necessary. Contiguous memory is not just a micro-optimization; it is a prerequisite for predictable, low-latency behavior.
+Avoid `std::map`, `std::set`, and `std::list` unless they are strictly necessary. Contiguous memory is not just a micro-optimization; it is a prerequisite for predictable, low-latency behavior.
 
 
 ## Branchless binary search has real tradeoffs
@@ -18,7 +18,7 @@ Eliminating branch mispredictions improved IPC. Branch mispredictions were measu
 
 
 ## Bypass the kernel where possible
-In terms of networking, user-space solutions (e.g., Solarflare's Onload/EFVI) can reduce latency from ~3 µs to ~700 ns. For local communication, shared memory over sockets is best.
+In terms of networking, user-space solutions (e.g., Solarflare's Onload/EFVI) can reduce latency from `~3 µs` to `~700 ns`. For local communication, shared memory over sockets is best.
 
 
 ## Design your concurrent queues carefully
