@@ -51,5 +51,5 @@ Perhaps the most underappreciated insight is that when multiple processes share 
 ```
 
 ![Ultrafast Trading Systems by David Gross](./img-1.png)
-![Ultrafast Trading Systems by David Gross](./img-1.png)
+![Ultrafast Trading Systems by David Gross](./img-2.png)
 ![Ultrafast Trading Systems by David Gross](./img-3.png)
