@@ -8,7 +8,7 @@ Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, 
 
 
 ## Reference
-+ Anthropic, "Introducing Claude Opus 4.7", 16 Apr 2026, https://www.anthropic.com/news/claude-opus-4-7
++ Anthropic, "Introducing Claude Opus 4.7", [16 Apr 2026](https://www.anthropic.com/news/claude-opus-4-7)
 
 
 ```
