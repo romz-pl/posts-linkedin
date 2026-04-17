@@ -63,7 +63,7 @@
 + [Lock-Free Single Producer Single Consumer FIFO, CppCon 2023](098-cppcon-spsc-lock-free/README.md)
 + [Lock-Free Programming by Herb Sutter, CppCon 2014](097-cppcon2014-lock-free/README.md)
 + [Microseconds matter. Ring Buffer (SPSC queue) by Erik Rigtorp](100-spsc-by-rigtorp/README.md)
-+ [Ultrafast Trading Systems by David Gross](101-cppcon-ultrafast/README.md)
++ [Ultrafast Trading Systems by David Gross](101-cppcon-ultrafast//README.md)
 + [Unlocking Modern CPU Power by Fedor G Pikus](102-cppnow-unlocking/README.md)
 
 
