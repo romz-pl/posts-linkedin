@@ -16,7 +16,7 @@
 
 
 ## Anthropic
-+ [Anthropic Introduced Claude Opus 4.7](1033-anthropic-opus-4.7/README.md)
++ [Anthropic Introduced Claude Opus 4.7](103-anthropic-opus-4.7/README.md)
 + [Anthropic, AI, national security, and the values](059-anthropic-clash/README.md)
 + [Anthropic reshapes software development](062-claude-code-exponential/README.md)
 + [Claude as the part of AI Tsunami](063-claude-code-tsunami/README.md)
