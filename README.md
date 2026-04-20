@@ -69,7 +69,7 @@
 
 ## Non-Uniform Memory Architecture (NUMA)
 + [Unlocking Modern CPU Power by Fedor G Pikus](102-cppnow-unlocking/README.md)
-+ [Non-Uniform Memory Architecture (NUMA) by Fedor G Pikus]
++ [Non-Uniform Memory Architecture (NUMA) by Fedor G Pikus](104-cppnow-numa/README.md)
 
 
 
