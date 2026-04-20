@@ -44,6 +44,9 @@
 + [OpenAI's Next Moonshot: A Fully Automated AI Researcher](087-openai-pachocki/README.md)
 
 
+## Robotics
++ [The GPT Moment for Robotics Is Here](105-y-combinator-pi/README.md)
+
 
 ## Refactoring and Modularization
 + [Modularization of legacy code](088-modularization-legacy-code/README.md)
