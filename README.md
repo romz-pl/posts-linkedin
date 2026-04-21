@@ -68,6 +68,7 @@
 + [Lock-Free Programming by Herb Sutter, CppCon 2014](097-cppcon2014-lock-free/README.md)
 + [Microseconds matter. Ring Buffer (SPSC queue) by Erik Rigtorp](100-spsc-by-rigtorp/README.md)
 + [Ultrafast Trading Systems by David Gross](101-cppcon-ultrafast//README.md)
++ [Every nanosecond counts. Lock-Free Ring Buffer by Joe Wood](106-spsc-by-wood/README.md)
 
 
 ## Non-Uniform Memory Architecture (NUMA)
