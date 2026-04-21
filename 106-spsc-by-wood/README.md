@@ -12,7 +12,7 @@ A mutex on the critical path creates latency. Lock-free coordination via `std::a
 
 ## CACHE-AWARENESS IS NON-NEGOTIABLE
 
-One of the most underappreciated topics Wood covers is false sharing. When the head and tail indexes share a cache line, each write by the producer invalidates the consumer's cache, which is a silent performance killer. The solution is to use alignas(64) padding to isolate hot variables on their own cache lines. This is not a micro-optimization in HFT—it's essential.
+One of the most underappreciated topics Wood covers is false sharing. When the head and tail indexes share a cache line, each write by the producer invalidates the consumer's cache, which is a silent performance killer. The solution is to use `alignas(64)` padding to isolate hot variables on their own cache lines. This is not a micro-optimization in HFT; it's essential.
 
 ## SEQUENCE NUMBERS > MODULO ARITHMETIC
 
@@ -20,7 +20,7 @@ Wood explains the evolution from naive `(head + 1) % size` wraparound logic to m
 
 ## THE DISRUPTOR PATTERN IN PRODUCTION
 
-For those developing trading pipelines, the article's discussion of per-slot sequence numbers is essential for grasping the Disruptor pattern, which is the foundation of some of the fastest order-processing systems ever deployed. If you use a mutex-guarded std::queue in your order pipeline, this article will prompt you to rethink your approach.
+For those developing trading pipelines, the article's discussion of per-slot sequence numbers is essential for grasping the Disruptor pattern, which is the foundation of some of the fastest order-processing systems ever deployed. If you use a mutex-guarded `std::queue` in your order pipeline, this article will prompt you to rethink your approach.
 
 ## Key takeaways from the article:
 + No dynamic allocation during operation — preallocate everything
