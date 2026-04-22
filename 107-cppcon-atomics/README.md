@@ -6,17 +6,17 @@ Check out Fedor G. Pikus's CppCon 2017 talk, "C++ Atomics: From Basic to Advance
 
 ## Algorithm comes first
 
-Pikus begins with an unexpected benchmark: a wait-free program that uses std::atomic increment runs more slowly and is less scalable than a program that uses a mutex and a local accumulator with a single lock at commit time. Atomic operations do not guarantee performance. 
+Pikus begins with an unexpected benchmark: a wait-free program that uses `std::atomic` increment runs more slowly and is less scalable than a program that uses a mutex and a local accumulator with a single lock at commit time. Atomic operations do not guarantee performance. 
 
 
 ## Atomic expressions are not always atomic
 
-`x++`, `x += 1`, and `x = x + 1` are equivalent for a plain int, but not for a `std::atomic<int>`. The first two compile to a single atomic read-modify-write. The third compiles into separate atomic reads and writes with an intervening window where another thread can intervene. The compiler will not warn you.
+`x++`, `x += 1`, and `x = x + 1` are equivalent for a plain `int`, but not for a `std::atomic<int>`. The first two compile to a single atomic read-modify-write. The third compiles into separate atomic reads and writes with an intervening window where another thread can intervene. The compiler will not warn you.
 
 
 ## Not all atomics are lock-free
 
-Just because a type is wrapped in `std::atomic` doesn't mean the hardware treats it as lock-free. Struct size, padding, and alignment all matter. Use `the is_lock_free()` function at runtime, or the `is_always_lock_free` function in `C++17`, to verify this before relying on it.
+Just because a type is wrapped in `std::atomic` doesn't mean the hardware treats it as lock-free. Struct size, padding, and alignment all matter. Use the `is_lock_free()` function at runtime, or the `is_always_lock_free()` function in `C++17`, to verify this before relying on it.
 
 
 ## Memory barriers are the other half of the story
@@ -42,7 +42,7 @@ Two atomic variables within the same 64-byte cache line behave as if they were o
 
 ## References
 
-+ 🎥 Fedor G Pikus, "C++ atomics, from basic to advanced. What do they really do?", CppCon 2017, 10 Oct 2017, https://www.youtube.com/watch?v=ZQFzMfHIxng
++ 🎥 Fedor G Pikus, "C++ atomics, from basic to advanced. What do they really do?", CppCon 2017, [10 Oct 2017](https://www.youtube.com/watch?v=ZQFzMfHIxng)
 
 
 
