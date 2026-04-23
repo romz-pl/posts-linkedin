@@ -21,7 +21,7 @@ The core insight: Modern CPUs are extremely powerful, yet this power is often wa
 
 + **Use Boolean indexing to eliminate branches entirely.** Rather than branching on a condition to select between two values, compute both values and index into an array. The result is `arr[condition]`. In misprediction-heavy scenarios, this approach achieved a speedup of about 4x.
 
-+ **Always profile first.** This is non-negotiable. Pikus was emphatic that misguided optimization is expensive, too. Use perf stat or similar tools to confirm branch misprediction rates before modifying your code. A well-predicted branch is essentially free; you cannot optimize your way past it.
++ **Always profile first.** This is non-negotiable. Pikus was emphatic that misguided optimization is expensive, too. Use `perf stat` or similar tools to confirm branch misprediction rates before modifying your code. A well-predicted branch is essentially free; you cannot optimize your way past it.
 
 
 💡 Branchless optimizations are invasive and involve real trade-offs. Typically, more work is required to avoid branches. These optimizations only pay off when mispredictions are confirmed and the eliminated expressions are lightweight. The process is: profile, optimize, then profile again.
