@@ -79,6 +79,7 @@
 ## High Performance Computing
 + [Branchless Programming in C++ by Fedor G Pikus](108-cppcon-branchless/README.md)
 + [Trading at light speed by David Gross, Meeting C++ 2022](099-meetingcpp-low-latency/README.md)
++ [Concurrency in C++ by Fedor G Pikus](109-cppnow-concurrency/README.md)
 
 
 
