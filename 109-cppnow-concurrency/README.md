@@ -7,7 +7,7 @@ At CppCon 2022, Fedor G. Pikus delivered one of the most comprehensive overviews
 Pre-C++11 code relied on POSIX or Win32 conventions, rather than the language itself. Because the compiler had no concept of threads, it was free to hoist operations out of "locked" regions. What saved us? Compilers that voluntarily obeyed external standards. You don't want to build on that foundation.
 
 
-## The real gift of C++11 wasn't just std::thread — it was the memory model
+## The real gift of C++11 wasn't just `std::thread` — it was the memory model
 C++11 formally defined how threads interact with memory. It ensures that accessing different memory locations from various threads is always safe. It also clarifies exactly when undefined behavior occurs (i.e., concurrent reads and writes to the same location). This provided us with a shared vocabulary to reason about concurrency, which is as important as the primitives themselves.
 
 
