@@ -1,10 +1,8 @@
 # Learning for Complex Control Systems - Guarantees in the Unknown
 
-MIT Robotics and MIT Laboratory for Information and Decision Systems (MIT LIDS)
+**Lab**: MIT Robotics and MIT Laboratory for Information and Decision Systems (MIT LIDS)
 
-MIT - 10 April 2026
-===================
-
+**Date**: MIT - 10 April 2026
 
 **Speaker**: Melanie Zeilinger
 
