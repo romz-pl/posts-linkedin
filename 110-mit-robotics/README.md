@@ -2,7 +2,7 @@
 
 **Lab**: MIT Robotics and MIT Laboratory for Information and Decision Systems (MIT LIDS)
 
-**Date**: MIT - 10 April 2026
+**Date**: 10 April 2026
 
 **Speaker**: Melanie Zeilinger
 
