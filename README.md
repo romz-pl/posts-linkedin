@@ -1,4 +1,4 @@
-# Posts published on [my LinkedIn account](./doc/https://www.linkedin.com/in/romz-pl/)
+# Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
 ## Claude Code, Anthropic
 + ["Coding is largely solved" - Boris Cherny, Head of Claude Code at Anthropic](./doc/052-claude-code-boris/README.md)
