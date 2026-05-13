@@ -1,6 +1,7 @@
 # Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
 ## Claude Code, Anthropic
++ [Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next](./doc/112-borys-cherny/README.md)
 + [Code with Claude 2026: Opening Keynote](./doc/111-claude-2026/README.md)
 + ["Coding is largely solved" - Boris Cherny, Head of Claude Code at Anthropic](./doc/052-claude-code-boris/README.md)
 + [Claude Code for C++ Development](./doc/053-claude-code-features/README.md)
