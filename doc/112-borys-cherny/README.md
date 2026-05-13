@@ -7,8 +7,8 @@ Boris Cherny, creator of Claude Code at Anthropic, joins Sequoia partner Lauren 
 
 
 ## References
-+ 🔗 Claude Code, https://claude.com/product/claude-code
-+ 🎥 Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next, 4 May 2026, https://www.youtube.com/watch?v=SlGRN8jh2RI
++ 🔗 Claude Code, [13 May 2026](https://claude.com/product/claude-code)
++ 🎥 Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next, [4 May 2026](https://www.youtube.com/watch?v=SlGRN8jh2RI)
 
 
 ```
