@@ -2,6 +2,7 @@
 
 ## Software for computational fluid dynamics (CFD)
 + [code_saturne: software for computational fluid dynamics (CFD) applications](./doc/114-code-saturne/README.md)
++ [SU2: The Open-Source CFD Code](./doc/115-su2/README.md)
 
 
 
