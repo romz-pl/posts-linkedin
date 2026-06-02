@@ -1,7 +1,7 @@
 # Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
 ## Software for computational fluid dynamics (CFD)
-+ [code_saturne: software for computational fluid dynamics (CFD) applications](114-code-saturne/README.md)
++ [code_saturne: software for computational fluid dynamics (CFD) applications](./doc/114-code-saturne/README.md)
 
 
 
