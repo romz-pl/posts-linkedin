@@ -1,7 +1,7 @@
 # code_saturne: software for computational fluid dynamics (CFD) applications
 
 
-code_saturne is the free, open-source software developed primarily by EDF for computational fluid dynamics (CFD) applications.
+**code_saturne** is the free, open-source software developed primarily by EDF for computational fluid dynamics (CFD) applications.
 
 It solves the Navier-Stokes equations with scalar transport for 2D, 2D-axisymmetric, and 3D flows, whether steady or unsteady, laminar or turbulent, incompressible, dilatable, or weakly compressible, isothermal or not.
 
