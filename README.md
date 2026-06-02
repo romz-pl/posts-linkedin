@@ -1,5 +1,10 @@
 # Posts published on [my LinkedIn account](https://www.linkedin.com/in/romz-pl/)
 
+## Software for computational fluid dynamics (CFD)
++ [code_saturne: software for computational fluid dynamics (CFD) applications](114-code-saturne/README.md)
+
+
+
 ## Claude Code, Anthropic
 + [Live coding session with Boris Cherny and Jarred Sumner](./doc/113-bun-claude/README.md)
 + [Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next](./doc/112-borys-cherny/README.md)
