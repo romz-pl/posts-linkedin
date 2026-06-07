@@ -4,6 +4,7 @@
 + [code_saturne: software for computational fluid dynamics (CFD) applications](./doc/114-code-saturne/README.md)
 + [SU2: The Open-Source CFD Code](./doc/115-su2/README.md)
 + [OpenFOAM: The Open-Source CFD Code](./doc/116-openfoam/README.md)
++ [Goma: open-source, scalable, parallel multiphysics software](./doc/117-goma/README.md)
 
 
 ## Claude Code, Anthropic
