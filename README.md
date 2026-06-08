@@ -5,6 +5,7 @@
 + [SU2: The Open-Source CFD Code](./doc/115-su2/README.md)
 + [OpenFOAM: The Open-Source CFD Code](./doc/116-openfoam/README.md)
 + [Goma: open-source, scalable, parallel multiphysics software](./doc/117-goma/README.md)
++ [MFEM: free, lightweight, scalable C++ FEM library](./doc/118-mfem/README.md)
 
 
 ## Claude Code, Anthropic
