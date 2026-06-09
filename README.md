@@ -6,6 +6,7 @@
 + [OpenFOAM: The Open-Source CFD Code](./doc/116-openfoam/README.md)
 + [Goma: open-source, scalable, parallel multiphysics software](./doc/117-goma/README.md)
 + [MFEM: free, lightweight, scalable C++ FEM library](./doc/118-mfem/README.md)
++ [Elmer FEM: open source multiphysical simulation software](./doc/119-elmer/README.md)
 
 
 ## Claude Code, Anthropic
