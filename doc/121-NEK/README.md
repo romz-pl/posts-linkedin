@@ -1,4 +1,4 @@
-# NEK: open source fast high-order scalable CFD
+# NEK: Open-Source, Fast, High-Order, Scalable CFD
 
 High-order methods have the potential to overcome the current limitations of standard computational fluid dynamics (CFD) solvers. Their applications span a wide range of fields, including fluid flow, thermal convection, combustion, and magnetohydrodynamics.
 
