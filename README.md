@@ -7,6 +7,7 @@
 + [Goma: open-source, scalable, parallel multiphysics software](./doc/117-goma/README.md)
 + [MFEM: free, lightweight, scalable C++ FEM library](./doc/118-mfem/README.md)
 + [Elmer FEM: open source multiphysical simulation software](./doc/119-elmer/README.md)
++ [FEniCS: open source computing platform](./doc/120-FeniCS/README.md)
 
 
 ## Claude Code, Anthropic
