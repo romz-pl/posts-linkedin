@@ -8,6 +8,7 @@
 + [MFEM: free, lightweight, scalable C++ FEM library](./doc/118-mfem/README.md)
 + [Elmer FEM: open source multiphysical simulation software](./doc/119-elmer/README.md)
 + [FEniCS: open source computing platform](./doc/120-FeniCS/README.md)
++ [NEK: open source fast high-order scalable CFD](./doc/121-NEK/README.md)
 
 
 ## Claude Code, Anthropic
