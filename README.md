@@ -9,6 +9,7 @@
 + [Elmer FEM: open source multiphysical simulation software](./doc/119-elmer/README.md)
 + [FEniCS: open source computing platform](./doc/120-FeniCS/README.md)
 + [NEK: open source fast high-order scalable CFD](./doc/121-NEK/README.md)
++ [ADCIRS: Open-Source, simulation of moving fluid on a rotating Earth](./doc/122-ADCIRC/README.md)
 
 
 ## Claude Code, Anthropic
