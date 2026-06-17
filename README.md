@@ -11,6 +11,7 @@
 + [NEK: open source fast high-order scalable CFD](./doc/121-NEK/README.md)
 + [ADCIRS: Open-Source, simulation of moving fluid on a rotating Earth](./doc/122-ADCIRC/README.md)
 + [CALCULIX: A Free Software Three-Dimensional Structural Finite Element Program](./doc/123-CALCULIX/README.md)
++ [COOLFluiD: Computational Object-Oriented Libraries for Fluid Dynamics platform](./doc/124-COOLFluiD/README.md)
 
 
 
