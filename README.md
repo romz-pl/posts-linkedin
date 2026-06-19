@@ -13,6 +13,7 @@
 + [CALCULIX: A Free Software Three-Dimensional Structural Finite Element Program](./doc/123-CALCULIX/README.md)
 + [COOLFluiD: Computational Object-Oriented Libraries for Fluid Dynamics platform](./doc/124-COOLFluiD/README.md)
 + [Gerris Flow Solver; Free Software](./doc/125-Gerris/README.md)
++ [Basilisk Flow Solver; Free Software](./doc/126-Basilisk/README.md)
 
 
 
